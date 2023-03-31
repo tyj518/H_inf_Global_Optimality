@@ -4,6 +4,6 @@ This repository contains code for the numerical experiment in the paper "On the 
 
 ## File List
 - main.m: Main script for the numerical experiment.
-- findP_Riccati: Function that searches for a solution to the LMIs that certificate the $\mathcal{H}_\infty$ norm, based on solving Riccati equations.
-- findP_LMP: Function that searches for a solution to the LMIs that certificate the $\mathcal{H}_\infty$ norm, based on directly solving the LMIs.
+- findP_Riccati.m: Function that searches for a solution to the LMIs that certificate the $\mathcal{H}_\infty$ norm, based on solving Riccati equations.
+- findP_LMI.m: Function that searches for a solution to the LMIs that certificate the $\mathcal{H}_\infty$ norm, based on directly solving the LMIs.
 - data.mat: Results of the numerical experiment.
